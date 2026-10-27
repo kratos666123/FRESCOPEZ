@@ -1,5 +1,6 @@
 .env
-certs/
+certs/*
+!certs/ca.pem
 __pycache__/
 *.pyc
 venv/
